@@ -1,1 +1,1 @@
-# BPC-BCT_Propaga-n-_modely_5G_IoT_technologi-
+# BPC-BCT_Propagacni_modely_5G_IoT_technologii
