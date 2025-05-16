@@ -1,4 +1,4 @@
-function analyze_prop_models_k()
+function analyze_prop_models_korekce()
     % === Konfigurace vstupních a výstupních souborů ===
     configs = {
         {'VF_B20_NB.xlsx', 'Brno-cells-nbiot.xlsx', 'results_nb_korekce.xlsx', 'NB'};
