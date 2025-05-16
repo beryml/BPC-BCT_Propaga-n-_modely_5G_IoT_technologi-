@@ -19,8 +19,18 @@ Tento repozitář obsahuje MATLAB skripty a datové soubory použité v rámci b
 - `point_to_BTS.m`  
   Skript pro přiřazení měřeného bodu k nejbližší BTS stanici.
 
+- `satellite_maps_spojeni_bts/`  
+  Výstupy ve formě satelitních map zobrazujících přiřazení měřených bodů k nejbližší BTS stanici. Využívá se k vizuální kontrole správnosti připojení.
+
 - `average_diff.m`, `average_diff_k.m`  
   Výpočet průměrné odchylky mezi měřenými a vypočtenými hodnotami.
+
+- `planovane-body/`  
+  Obsahuje seznam plánovaných měřicích bodů, které byly zvažovány pro sběr dat a skript tomu určený. Slouží jako podklad pro plánování měření a tras. 
+
+- `silaSignaluTecky/`  
+  Grafická vizualizace síly signálu pomocí barevných teček v jednotlivých bodech měření. Slouží k rychlému posouzení kvality pokrytí v různých oblastech.
+
 
 ## 📊 Datové soubory
 
