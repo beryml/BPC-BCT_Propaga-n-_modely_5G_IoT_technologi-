@@ -24,9 +24,9 @@ Tento repozitář obsahuje MATLAB skripty a datové soubory použité v rámci b
 
 ## 📊 Datové soubory
 
-- `Brno-cells-nbiot.xlsx`, `Brno-cells-catm.xlsx`  
-  BUDE ODDĚLÁNO NESMÍ BÝT PŘÍSTUPNÉ
-  Lokace základnových stanic a jejich parametry.
+- **Brno-cells-nbiot.xlsx**, **Brno-cells-catm.xlsx**  
+  Tyto soubory nejsou součástí repozitáře (nejsou veřejně přístupné), ale jsou nezbytné pro správné fungování skriptů `analyze_prop_models.m` a `analyze_prop_models_korekce.m`. Obsahují lokaci základnových stanic a jejich parametry.
+
 
 - `VF_B20_NB.xlsx`, `VF_B8_M.xlsx`  
   Měřená data signálu NB-IoT a LTE-M.
