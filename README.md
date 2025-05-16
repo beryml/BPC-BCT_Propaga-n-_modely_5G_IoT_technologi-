@@ -8,7 +8,7 @@ Tento repozitář obsahuje MATLAB skripty a datové soubory použité v rámci b
   Hlavní skript pro výpočet teoretických RSRP hodnot dle modelů (Okumura-Hata, COST-231, Ericsson 9999).
 
 - `analyze_prop_models_korekce.m`  
-  Modifikovaný skript s aplikací korekčních členů pro přesnější predikci.
+  Modifikovaný skript s aplikací korekčních členů na základě rozdílů praktického měření pro přesnější predikci.
 
 - `make_boxplot.m`, `make_boxplot_area.m`  
   Generování boxplotů rozdílů mezi měřením a výpočtem, včetně rozdělení dle oblastí.
@@ -20,11 +20,12 @@ Tento repozitář obsahuje MATLAB skripty a datové soubory použité v rámci b
   Skript pro přiřazení měřeného bodu k nejbližší BTS stanici.
 
 - `average_diff.m`, `average_diff_k.m`  
-  Výpočet průměrné odchylky mezi měřenými a modelovanými hodnotami.
+  Výpočet průměrné odchylky mezi měřenými a vypočtenými hodnotami.
 
 ## 📊 Datové soubory
 
 - `Brno-cells-nbiot.xlsx`, `Brno-cells-catm.xlsx`  
+  BUDE ODDĚLÁNO NESMÍ BÝT PŘÍSTUPNÉ
   Lokace základnových stanic a jejich parametry.
 
 - `VF_B20_NB.xlsx`, `VF_B8_M.xlsx`  
@@ -43,9 +44,9 @@ Všechny modely byly upraveny o korekční člen \( K \) pro zlepšení shody s 
 
 ## 📌 Poznámky
 
-- Projekt je vytvořen v prostředí **MATLAB R2023b**.
+- Projekt je vytvořen v prostředí **MATLAB ONLINE**.
 - Při spuštění skriptů je nutné mít v pracovním adresáři odpovídající datové soubory.
-- Výstupy jsou uloženy v adresářích `graf`, `graf_korekce`, `boxplot_pdf`.
+- Výstupy jsou uloženy v odpovídajících adresářích
 
 ## 📄 Licence
 
