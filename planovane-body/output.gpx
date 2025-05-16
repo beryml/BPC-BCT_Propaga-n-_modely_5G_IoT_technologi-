@@ -1,0 +1,3004 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://mapy.cz/">
+	<wpt lat="49.271576" lon="16.614833">
+		<name>Point 1000</name>
+	</wpt>
+	<wpt lat="49.109880" lon="16.621706">
+		<name>Point 1</name>
+	</wpt>
+	<wpt lat="49.109880" lon="16.628580">
+		<name>Point 2</name>
+	</wpt>
+	<wpt lat="49.114372" lon="16.621706">
+		<name>Point 3</name>
+	</wpt>
+	<wpt lat="49.114372" lon="16.628580">
+		<name>Point 4</name>
+	</wpt>
+	<wpt lat="49.114372" lon="16.635453">
+		<name>Point 5</name>
+	</wpt>
+	<wpt lat="49.114372" lon="16.642326">
+		<name>Point 6</name>
+	</wpt>
+	<wpt lat="49.114372" lon="16.649199">
+		<name>Point 7</name>
+	</wpt>
+	<wpt lat="49.114372" lon="16.656073">
+		<name>Point 8</name>
+	</wpt>
+	<wpt lat="49.114372" lon="16.662946">
+		<name>Point 9</name>
+	</wpt>
+	<wpt lat="49.114372" lon="16.669819">
+		<name>Point 10</name>
+	</wpt>
+	<wpt lat="49.114372" lon="16.676692">
+		<name>Point 11</name>
+	</wpt>
+	<wpt lat="49.118864" lon="16.621706">
+		<name>Point 12</name>
+	</wpt>
+	<wpt lat="49.118864" lon="16.628580">
+		<name>Point 13</name>
+	</wpt>
+	<wpt lat="49.118864" lon="16.635453">
+		<name>Point 14</name>
+	</wpt>
+	<wpt lat="49.118864" lon="16.642326">
+		<name>Point 15</name>
+	</wpt>
+	<wpt lat="49.118864" lon="16.649199">
+		<name>Point 16</name>
+	</wpt>
+	<wpt lat="49.118864" lon="16.656073">
+		<name>Point 17</name>
+	</wpt>
+	<wpt lat="49.118864" lon="16.662946">
+		<name>Point 18</name>
+	</wpt>
+	<wpt lat="49.118864" lon="16.669819">
+		<name>Point 19</name>
+	</wpt>
+	<wpt lat="49.118864" lon="16.676692">
+		<name>Point 20</name>
+	</wpt>
+	<wpt lat="49.118864" lon="16.683566">
+		<name>Point 21</name>
+	</wpt>
+	<wpt lat="49.123355" lon="16.621706">
+		<name>Point 22</name>
+	</wpt>
+	<wpt lat="49.123355" lon="16.628580">
+		<name>Point 23</name>
+	</wpt>
+	<wpt lat="49.123355" lon="16.635453">
+		<name>Point 24</name>
+	</wpt>
+	<wpt lat="49.123355" lon="16.642326">
+		<name>Point 25</name>
+	</wpt>
+	<wpt lat="49.123355" lon="16.649199">
+		<name>Point 26</name>
+	</wpt>
+	<wpt lat="49.123355" lon="16.656073">
+		<name>Point 27</name>
+	</wpt>
+	<wpt lat="49.123355" lon="16.662946">
+		<name>Point 28</name>
+	</wpt>
+	<wpt lat="49.123355" lon="16.669819">
+		<name>Point 29</name>
+	</wpt>
+	<wpt lat="49.123355" lon="16.676692">
+		<name>Point 30</name>
+	</wpt>
+	<wpt lat="49.123355" lon="16.683566">
+		<name>Point 31</name>
+	</wpt>
+	<wpt lat="49.123355" lon="16.690439">
+		<name>Point 32</name>
+	</wpt>
+	<wpt lat="49.127847" lon="16.621706">
+		<name>Point 33</name>
+	</wpt>
+	<wpt lat="49.127847" lon="16.628580">
+		<name>Point 34</name>
+	</wpt>
+	<wpt lat="49.127847" lon="16.635453">
+		<name>Point 35</name>
+	</wpt>
+	<wpt lat="49.127847" lon="16.642326">
+		<name>Point 36</name>
+	</wpt>
+	<wpt lat="49.127847" lon="16.649199">
+		<name>Point 37</name>
+	</wpt>
+	<wpt lat="49.127847" lon="16.656073">
+		<name>Point 38</name>
+	</wpt>
+	<wpt lat="49.127847" lon="16.662946">
+		<name>Point 39</name>
+	</wpt>
+	<wpt lat="49.127847" lon="16.669819">
+		<name>Point 40</name>
+	</wpt>
+	<wpt lat="49.127847" lon="16.676692">
+		<name>Point 41</name>
+	</wpt>
+	<wpt lat="49.127847" lon="16.683566">
+		<name>Point 42</name>
+	</wpt>
+	<wpt lat="49.127847" lon="16.690439">
+		<name>Point 43</name>
+	</wpt>
+	<wpt lat="49.127847" lon="16.697312">
+		<name>Point 44</name>
+	</wpt>
+	<wpt lat="49.132338" lon="16.621706">
+		<name>Point 45</name>
+	</wpt>
+	<wpt lat="49.132338" lon="16.628580">
+		<name>Point 46</name>
+	</wpt>
+	<wpt lat="49.132338" lon="16.635453">
+		<name>Point 47</name>
+	</wpt>
+	<wpt lat="49.132338" lon="16.642326">
+		<name>Point 48</name>
+	</wpt>
+	<wpt lat="49.132338" lon="16.649199">
+		<name>Point 49</name>
+	</wpt>
+	<wpt lat="49.132338" lon="16.656073">
+		<name>Point 50</name>
+	</wpt>
+	<wpt lat="49.132338" lon="16.662946">
+		<name>Point 51</name>
+	</wpt>
+	<wpt lat="49.132338" lon="16.669819">
+		<name>Point 52</name>
+	</wpt>
+	<wpt lat="49.132338" lon="16.676692">
+		<name>Point 53</name>
+	</wpt>
+	<wpt lat="49.132338" lon="16.683566">
+		<name>Point 54</name>
+	</wpt>
+	<wpt lat="49.132338" lon="16.690439">
+		<name>Point 55</name>
+	</wpt>
+	<wpt lat="49.132338" lon="16.697312">
+		<name>Point 56</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.587340">
+		<name>Point 57</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.594214">
+		<name>Point 58</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.601087">
+		<name>Point 59</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.607960">
+		<name>Point 60</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.614833">
+		<name>Point 61</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.621706">
+		<name>Point 62</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.628580">
+		<name>Point 63</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.635453">
+		<name>Point 64</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.642326">
+		<name>Point 65</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.649199">
+		<name>Point 66</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.656073">
+		<name>Point 67</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.662946">
+		<name>Point 68</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.669819">
+		<name>Point 69</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.676692">
+		<name>Point 70</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.683566">
+		<name>Point 71</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.690439">
+		<name>Point 72</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.697312">
+		<name>Point 73</name>
+	</wpt>
+	<wpt lat="49.136830" lon="16.704185">
+		<name>Point 74</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.587340">
+		<name>Point 75</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.594214">
+		<name>Point 76</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.601087">
+		<name>Point 77</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.607960">
+		<name>Point 78</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.614833">
+		<name>Point 79</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.621706">
+		<name>Point 80</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.628580">
+		<name>Point 81</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.635453">
+		<name>Point 82</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.642326">
+		<name>Point 83</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.649199">
+		<name>Point 84</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.656073">
+		<name>Point 85</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.662946">
+		<name>Point 86</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.669819">
+		<name>Point 87</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.676692">
+		<name>Point 88</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.683566">
+		<name>Point 89</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.690439">
+		<name>Point 90</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.697312">
+		<name>Point 91</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.704185">
+		<name>Point 92</name>
+	</wpt>
+	<wpt lat="49.141321" lon="16.711059">
+		<name>Point 93</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.587340">
+		<name>Point 94</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.594214">
+		<name>Point 95</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.601087">
+		<name>Point 96</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.607960">
+		<name>Point 97</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.614833">
+		<name>Point 98</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.621706">
+		<name>Point 99</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.628580">
+		<name>Point 100</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.635453">
+		<name>Point 101</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.642326">
+		<name>Point 102</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.649199">
+		<name>Point 103</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.656073">
+		<name>Point 104</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.662946">
+		<name>Point 105</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.669819">
+		<name>Point 106</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.676692">
+		<name>Point 107</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.683566">
+		<name>Point 108</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.690439">
+		<name>Point 109</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.697312">
+		<name>Point 110</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.704185">
+		<name>Point 111</name>
+	</wpt>
+	<wpt lat="49.145813" lon="16.711059">
+		<name>Point 112</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.587340">
+		<name>Point 113</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.594214">
+		<name>Point 114</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.601087">
+		<name>Point 115</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.607960">
+		<name>Point 116</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.614833">
+		<name>Point 117</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.621706">
+		<name>Point 118</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.628580">
+		<name>Point 119</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.635453">
+		<name>Point 120</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.642326">
+		<name>Point 121</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.649199">
+		<name>Point 122</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.656073">
+		<name>Point 123</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.662946">
+		<name>Point 124</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.669819">
+		<name>Point 125</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.676692">
+		<name>Point 126</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.683566">
+		<name>Point 127</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.690439">
+		<name>Point 128</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.697312">
+		<name>Point 129</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.704185">
+		<name>Point 130</name>
+	</wpt>
+	<wpt lat="49.150304" lon="16.711059">
+		<name>Point 131</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.580467">
+		<name>Point 132</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.587340">
+		<name>Point 133</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.594214">
+		<name>Point 134</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.601087">
+		<name>Point 135</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.607960">
+		<name>Point 136</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.614833">
+		<name>Point 137</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.621706">
+		<name>Point 138</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.628580">
+		<name>Point 139</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.635453">
+		<name>Point 140</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.642326">
+		<name>Point 141</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.649199">
+		<name>Point 142</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.656073">
+		<name>Point 143</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.662946">
+		<name>Point 144</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.669819">
+		<name>Point 145</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.676692">
+		<name>Point 146</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.683566">
+		<name>Point 147</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.690439">
+		<name>Point 148</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.697312">
+		<name>Point 149</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.704185">
+		<name>Point 150</name>
+	</wpt>
+	<wpt lat="49.154796" lon="16.711059">
+		<name>Point 151</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.573594">
+		<name>Point 152</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.580467">
+		<name>Point 153</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.587340">
+		<name>Point 154</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.594214">
+		<name>Point 155</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.601087">
+		<name>Point 156</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.607960">
+		<name>Point 157</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.614833">
+		<name>Point 158</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.621706">
+		<name>Point 159</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.628580">
+		<name>Point 160</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.635453">
+		<name>Point 161</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.642326">
+		<name>Point 162</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.649199">
+		<name>Point 163</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.656073">
+		<name>Point 164</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.662946">
+		<name>Point 165</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.669819">
+		<name>Point 166</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.676692">
+		<name>Point 167</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.683566">
+		<name>Point 168</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.690439">
+		<name>Point 169</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.697312">
+		<name>Point 170</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.704185">
+		<name>Point 171</name>
+	</wpt>
+	<wpt lat="49.159288" lon="16.711059">
+		<name>Point 172</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.559847">
+		<name>Point 173</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.566721">
+		<name>Point 174</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.573594">
+		<name>Point 175</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.580467">
+		<name>Point 176</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.587340">
+		<name>Point 177</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.594214">
+		<name>Point 178</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.601087">
+		<name>Point 179</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.607960">
+		<name>Point 180</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.614833">
+		<name>Point 181</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.621706">
+		<name>Point 182</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.628580">
+		<name>Point 183</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.635453">
+		<name>Point 184</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.642326">
+		<name>Point 185</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.649199">
+		<name>Point 186</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.656073">
+		<name>Point 187</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.662946">
+		<name>Point 188</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.669819">
+		<name>Point 189</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.676692">
+		<name>Point 190</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.683566">
+		<name>Point 191</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.690439">
+		<name>Point 192</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.697312">
+		<name>Point 193</name>
+	</wpt>
+	<wpt lat="49.163779" lon="16.704185">
+		<name>Point 194</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.552974">
+		<name>Point 195</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.559847">
+		<name>Point 196</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.566721">
+		<name>Point 197</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.573594">
+		<name>Point 198</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.580467">
+		<name>Point 199</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.587340">
+		<name>Point 200</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.594214">
+		<name>Point 201</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.601087">
+		<name>Point 202</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.607960">
+		<name>Point 203</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.614833">
+		<name>Point 204</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.621706">
+		<name>Point 205</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.628580">
+		<name>Point 206</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.635453">
+		<name>Point 207</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.642326">
+		<name>Point 208</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.649199">
+		<name>Point 209</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.656073">
+		<name>Point 210</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.662946">
+		<name>Point 211</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.669819">
+		<name>Point 212</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.676692">
+		<name>Point 213</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.683566">
+		<name>Point 214</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.690439">
+		<name>Point 215</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.697312">
+		<name>Point 216</name>
+	</wpt>
+	<wpt lat="49.168271" lon="16.704185">
+		<name>Point 217</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.539228">
+		<name>Point 218</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.546101">
+		<name>Point 219</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.552974">
+		<name>Point 220</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.559847">
+		<name>Point 221</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.566721">
+		<name>Point 222</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.573594">
+		<name>Point 223</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.580467">
+		<name>Point 224</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.587340">
+		<name>Point 225</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.594214">
+		<name>Point 226</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.601087">
+		<name>Point 227</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.607960">
+		<name>Point 228</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.614833">
+		<name>Point 229</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.621706">
+		<name>Point 230</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.628580">
+		<name>Point 231</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.635453">
+		<name>Point 232</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.642326">
+		<name>Point 233</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.649199">
+		<name>Point 234</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.656073">
+		<name>Point 235</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.662946">
+		<name>Point 236</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.669819">
+		<name>Point 237</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.676692">
+		<name>Point 238</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.683566">
+		<name>Point 239</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.690439">
+		<name>Point 240</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.697312">
+		<name>Point 241</name>
+	</wpt>
+	<wpt lat="49.172762" lon="16.704185">
+		<name>Point 242</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.525481">
+		<name>Point 243</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.532354">
+		<name>Point 244</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.539228">
+		<name>Point 245</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.546101">
+		<name>Point 246</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.552974">
+		<name>Point 247</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.559847">
+		<name>Point 248</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.566721">
+		<name>Point 249</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.573594">
+		<name>Point 250</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.580467">
+		<name>Point 251</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.587340">
+		<name>Point 252</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.594214">
+		<name>Point 253</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.601087">
+		<name>Point 254</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.607960">
+		<name>Point 255</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.614833">
+		<name>Point 256</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.621706">
+		<name>Point 257</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.628580">
+		<name>Point 258</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.635453">
+		<name>Point 259</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.642326">
+		<name>Point 260</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.649199">
+		<name>Point 261</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.656073">
+		<name>Point 262</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.662946">
+		<name>Point 263</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.669819">
+		<name>Point 264</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.676692">
+		<name>Point 265</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.683566">
+		<name>Point 266</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.690439">
+		<name>Point 267</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.697312">
+		<name>Point 268</name>
+	</wpt>
+	<wpt lat="49.177254" lon="16.704185">
+		<name>Point 269</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.518608">
+		<name>Point 270</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.525481">
+		<name>Point 271</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.532354">
+		<name>Point 272</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.539228">
+		<name>Point 273</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.546101">
+		<name>Point 274</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.552974">
+		<name>Point 275</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.559847">
+		<name>Point 276</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.566721">
+		<name>Point 277</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.573594">
+		<name>Point 278</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.580467">
+		<name>Point 279</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.587340">
+		<name>Point 280</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.594214">
+		<name>Point 281</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.601087">
+		<name>Point 282</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.607960">
+		<name>Point 283</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.614833">
+		<name>Point 284</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.621706">
+		<name>Point 285</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.628580">
+		<name>Point 286</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.635453">
+		<name>Point 287</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.642326">
+		<name>Point 288</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.649199">
+		<name>Point 289</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.656073">
+		<name>Point 290</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.662946">
+		<name>Point 291</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.669819">
+		<name>Point 292</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.676692">
+		<name>Point 293</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.683566">
+		<name>Point 294</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.690439">
+		<name>Point 295</name>
+	</wpt>
+	<wpt lat="49.181745" lon="16.697312">
+		<name>Point 296</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.504861">
+		<name>Point 297</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.511735">
+		<name>Point 298</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.518608">
+		<name>Point 299</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.525481">
+		<name>Point 300</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.532354">
+		<name>Point 301</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.539228">
+		<name>Point 302</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.546101">
+		<name>Point 303</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.552974">
+		<name>Point 304</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.559847">
+		<name>Point 305</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.566721">
+		<name>Point 306</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.573594">
+		<name>Point 307</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.580467">
+		<name>Point 308</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.587340">
+		<name>Point 309</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.594214">
+		<name>Point 310</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.601087">
+		<name>Point 311</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.607960">
+		<name>Point 312</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.614833">
+		<name>Point 313</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.621706">
+		<name>Point 314</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.628580">
+		<name>Point 315</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.635453">
+		<name>Point 316</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.642326">
+		<name>Point 317</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.649199">
+		<name>Point 318</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.656073">
+		<name>Point 319</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.662946">
+		<name>Point 320</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.669819">
+		<name>Point 321</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.676692">
+		<name>Point 322</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.683566">
+		<name>Point 323</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.690439">
+		<name>Point 324</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.697312">
+		<name>Point 325</name>
+	</wpt>
+	<wpt lat="49.186237" lon="16.704185">
+		<name>Point 326</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.497988">
+		<name>Point 327</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.504861">
+		<name>Point 328</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.511735">
+		<name>Point 329</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.518608">
+		<name>Point 330</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.525481">
+		<name>Point 331</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.532354">
+		<name>Point 332</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.539228">
+		<name>Point 333</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.546101">
+		<name>Point 334</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.552974">
+		<name>Point 335</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.559847">
+		<name>Point 336</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.566721">
+		<name>Point 337</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.573594">
+		<name>Point 338</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.580467">
+		<name>Point 339</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.587340">
+		<name>Point 340</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.594214">
+		<name>Point 341</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.601087">
+		<name>Point 342</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.607960">
+		<name>Point 343</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.614833">
+		<name>Point 344</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.621706">
+		<name>Point 345</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.628580">
+		<name>Point 346</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.635453">
+		<name>Point 347</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.642326">
+		<name>Point 348</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.649199">
+		<name>Point 349</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.656073">
+		<name>Point 350</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.662946">
+		<name>Point 351</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.669819">
+		<name>Point 352</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.676692">
+		<name>Point 353</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.683566">
+		<name>Point 354</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.690439">
+		<name>Point 355</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.697312">
+		<name>Point 356</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.704185">
+		<name>Point 357</name>
+	</wpt>
+	<wpt lat="49.190728" lon="16.711059">
+		<name>Point 358</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.484242">
+		<name>Point 359</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.491115">
+		<name>Point 360</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.497988">
+		<name>Point 361</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.504861">
+		<name>Point 362</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.511735">
+		<name>Point 363</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.518608">
+		<name>Point 364</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.525481">
+		<name>Point 365</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.532354">
+		<name>Point 366</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.539228">
+		<name>Point 367</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.546101">
+		<name>Point 368</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.552974">
+		<name>Point 369</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.559847">
+		<name>Point 370</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.566721">
+		<name>Point 371</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.573594">
+		<name>Point 372</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.580467">
+		<name>Point 373</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.587340">
+		<name>Point 374</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.594214">
+		<name>Point 375</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.601087">
+		<name>Point 376</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.607960">
+		<name>Point 377</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.614833">
+		<name>Point 378</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.621706">
+		<name>Point 379</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.628580">
+		<name>Point 380</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.635453">
+		<name>Point 381</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.642326">
+		<name>Point 382</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.649199">
+		<name>Point 383</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.656073">
+		<name>Point 384</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.662946">
+		<name>Point 385</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.669819">
+		<name>Point 386</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.676692">
+		<name>Point 387</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.683566">
+		<name>Point 388</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.690439">
+		<name>Point 389</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.697312">
+		<name>Point 390</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.704185">
+		<name>Point 391</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.711059">
+		<name>Point 392</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.717932">
+		<name>Point 393</name>
+	</wpt>
+	<wpt lat="49.195220" lon="16.724805">
+		<name>Point 394</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.470495">
+		<name>Point 395</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.477368">
+		<name>Point 396</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.484242">
+		<name>Point 397</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.491115">
+		<name>Point 398</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.497988">
+		<name>Point 399</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.504861">
+		<name>Point 400</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.511735">
+		<name>Point 401</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.518608">
+		<name>Point 402</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.525481">
+		<name>Point 403</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.532354">
+		<name>Point 404</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.539228">
+		<name>Point 405</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.546101">
+		<name>Point 406</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.552974">
+		<name>Point 407</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.559847">
+		<name>Point 408</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.566721">
+		<name>Point 409</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.573594">
+		<name>Point 410</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.580467">
+		<name>Point 411</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.587340">
+		<name>Point 412</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.594214">
+		<name>Point 413</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.601087">
+		<name>Point 414</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.607960">
+		<name>Point 415</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.614833">
+		<name>Point 416</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.621706">
+		<name>Point 417</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.628580">
+		<name>Point 418</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.635453">
+		<name>Point 419</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.642326">
+		<name>Point 420</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.649199">
+		<name>Point 421</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.656073">
+		<name>Point 422</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.662946">
+		<name>Point 423</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.669819">
+		<name>Point 424</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.676692">
+		<name>Point 425</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.683566">
+		<name>Point 426</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.690439">
+		<name>Point 427</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.697312">
+		<name>Point 428</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.704185">
+		<name>Point 429</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.711059">
+		<name>Point 430</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.717932">
+		<name>Point 431</name>
+	</wpt>
+	<wpt lat="49.199712" lon="16.724805">
+		<name>Point 432</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.463622">
+		<name>Point 433</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.470495">
+		<name>Point 434</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.477368">
+		<name>Point 435</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.484242">
+		<name>Point 436</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.491115">
+		<name>Point 437</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.497988">
+		<name>Point 438</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.504861">
+		<name>Point 439</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.511735">
+		<name>Point 440</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.518608">
+		<name>Point 441</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.525481">
+		<name>Point 442</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.532354">
+		<name>Point 443</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.539228">
+		<name>Point 444</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.546101">
+		<name>Point 445</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.552974">
+		<name>Point 446</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.559847">
+		<name>Point 447</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.566721">
+		<name>Point 448</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.573594">
+		<name>Point 449</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.580467">
+		<name>Point 450</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.587340">
+		<name>Point 451</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.594214">
+		<name>Point 452</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.601087">
+		<name>Point 453</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.607960">
+		<name>Point 454</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.614833">
+		<name>Point 455</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.621706">
+		<name>Point 456</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.628580">
+		<name>Point 457</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.635453">
+		<name>Point 458</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.642326">
+		<name>Point 459</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.649199">
+		<name>Point 460</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.656073">
+		<name>Point 461</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.662946">
+		<name>Point 462</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.669819">
+		<name>Point 463</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.676692">
+		<name>Point 464</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.683566">
+		<name>Point 465</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.690439">
+		<name>Point 466</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.697312">
+		<name>Point 467</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.704185">
+		<name>Point 468</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.711059">
+		<name>Point 469</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.717932">
+		<name>Point 470</name>
+	</wpt>
+	<wpt lat="49.204203" lon="16.724805">
+		<name>Point 471</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.449875">
+		<name>Point 472</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.456749">
+		<name>Point 473</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.463622">
+		<name>Point 474</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.470495">
+		<name>Point 475</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.477368">
+		<name>Point 476</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.484242">
+		<name>Point 477</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.491115">
+		<name>Point 478</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.497988">
+		<name>Point 479</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.504861">
+		<name>Point 480</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.511735">
+		<name>Point 481</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.518608">
+		<name>Point 482</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.525481">
+		<name>Point 483</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.532354">
+		<name>Point 484</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.539228">
+		<name>Point 485</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.546101">
+		<name>Point 486</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.552974">
+		<name>Point 487</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.559847">
+		<name>Point 488</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.566721">
+		<name>Point 489</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.573594">
+		<name>Point 490</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.580467">
+		<name>Point 491</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.587340">
+		<name>Point 492</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.594214">
+		<name>Point 493</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.601087">
+		<name>Point 494</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.607960">
+		<name>Point 495</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.614833">
+		<name>Point 496</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.621706">
+		<name>Point 497</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.628580">
+		<name>Point 498</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.635453">
+		<name>Point 499</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.642326">
+		<name>Point 500</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.649199">
+		<name>Point 501</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.656073">
+		<name>Point 502</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.662946">
+		<name>Point 503</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.669819">
+		<name>Point 504</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.676692">
+		<name>Point 505</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.683566">
+		<name>Point 506</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.690439">
+		<name>Point 507</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.697312">
+		<name>Point 508</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.704185">
+		<name>Point 509</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.711059">
+		<name>Point 510</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.717932">
+		<name>Point 511</name>
+	</wpt>
+	<wpt lat="49.208695" lon="16.724805">
+		<name>Point 512</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.443002">
+		<name>Point 513</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.449875">
+		<name>Point 514</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.456749">
+		<name>Point 515</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.463622">
+		<name>Point 516</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.470495">
+		<name>Point 517</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.477368">
+		<name>Point 518</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.484242">
+		<name>Point 519</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.491115">
+		<name>Point 520</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.497988">
+		<name>Point 521</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.504861">
+		<name>Point 522</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.511735">
+		<name>Point 523</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.518608">
+		<name>Point 524</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.525481">
+		<name>Point 525</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.532354">
+		<name>Point 526</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.539228">
+		<name>Point 527</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.546101">
+		<name>Point 528</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.552974">
+		<name>Point 529</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.559847">
+		<name>Point 530</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.566721">
+		<name>Point 531</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.573594">
+		<name>Point 532</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.580467">
+		<name>Point 533</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.587340">
+		<name>Point 534</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.594214">
+		<name>Point 535</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.601087">
+		<name>Point 536</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.607960">
+		<name>Point 537</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.614833">
+		<name>Point 538</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.621706">
+		<name>Point 539</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.628580">
+		<name>Point 540</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.635453">
+		<name>Point 541</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.642326">
+		<name>Point 542</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.649199">
+		<name>Point 543</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.656073">
+		<name>Point 544</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.662946">
+		<name>Point 545</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.669819">
+		<name>Point 546</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.676692">
+		<name>Point 547</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.683566">
+		<name>Point 548</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.690439">
+		<name>Point 549</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.697312">
+		<name>Point 550</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.704185">
+		<name>Point 551</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.711059">
+		<name>Point 552</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.717932">
+		<name>Point 553</name>
+	</wpt>
+	<wpt lat="49.213186" lon="16.724805">
+		<name>Point 554</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.429256">
+		<name>Point 555</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.436129">
+		<name>Point 556</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.443002">
+		<name>Point 557</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.449875">
+		<name>Point 558</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.456749">
+		<name>Point 559</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.463622">
+		<name>Point 560</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.470495">
+		<name>Point 561</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.477368">
+		<name>Point 562</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.484242">
+		<name>Point 563</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.491115">
+		<name>Point 564</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.497988">
+		<name>Point 565</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.504861">
+		<name>Point 566</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.511735">
+		<name>Point 567</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.518608">
+		<name>Point 568</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.525481">
+		<name>Point 569</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.532354">
+		<name>Point 570</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.539228">
+		<name>Point 571</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.546101">
+		<name>Point 572</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.552974">
+		<name>Point 573</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.559847">
+		<name>Point 574</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.566721">
+		<name>Point 575</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.573594">
+		<name>Point 576</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.580467">
+		<name>Point 577</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.587340">
+		<name>Point 578</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.594214">
+		<name>Point 579</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.601087">
+		<name>Point 580</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.607960">
+		<name>Point 581</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.614833">
+		<name>Point 582</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.621706">
+		<name>Point 583</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.628580">
+		<name>Point 584</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.635453">
+		<name>Point 585</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.642326">
+		<name>Point 586</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.649199">
+		<name>Point 587</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.656073">
+		<name>Point 588</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.662946">
+		<name>Point 589</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.669819">
+		<name>Point 590</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.676692">
+		<name>Point 591</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.683566">
+		<name>Point 592</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.690439">
+		<name>Point 593</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.697312">
+		<name>Point 594</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.704185">
+		<name>Point 595</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.711059">
+		<name>Point 596</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.717932">
+		<name>Point 597</name>
+	</wpt>
+	<wpt lat="49.217678" lon="16.724805">
+		<name>Point 598</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.429256">
+		<name>Point 599</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.436129">
+		<name>Point 600</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.443002">
+		<name>Point 601</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.449875">
+		<name>Point 602</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.456749">
+		<name>Point 603</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.463622">
+		<name>Point 604</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.470495">
+		<name>Point 605</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.477368">
+		<name>Point 606</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.484242">
+		<name>Point 607</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.491115">
+		<name>Point 608</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.497988">
+		<name>Point 609</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.504861">
+		<name>Point 610</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.511735">
+		<name>Point 611</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.518608">
+		<name>Point 612</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.525481">
+		<name>Point 613</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.532354">
+		<name>Point 614</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.539228">
+		<name>Point 615</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.546101">
+		<name>Point 616</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.552974">
+		<name>Point 617</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.559847">
+		<name>Point 618</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.566721">
+		<name>Point 619</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.573594">
+		<name>Point 620</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.580467">
+		<name>Point 621</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.587340">
+		<name>Point 622</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.594214">
+		<name>Point 623</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.601087">
+		<name>Point 624</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.607960">
+		<name>Point 625</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.614833">
+		<name>Point 626</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.621706">
+		<name>Point 627</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.628580">
+		<name>Point 628</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.635453">
+		<name>Point 629</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.642326">
+		<name>Point 630</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.649199">
+		<name>Point 631</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.656073">
+		<name>Point 632</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.662946">
+		<name>Point 633</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.669819">
+		<name>Point 634</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.676692">
+		<name>Point 635</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.683566">
+		<name>Point 636</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.690439">
+		<name>Point 637</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.697312">
+		<name>Point 638</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.704185">
+		<name>Point 639</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.711059">
+		<name>Point 640</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.717932">
+		<name>Point 641</name>
+	</wpt>
+	<wpt lat="49.222169" lon="16.724805">
+		<name>Point 642</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.429256">
+		<name>Point 643</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.436129">
+		<name>Point 644</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.443002">
+		<name>Point 645</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.449875">
+		<name>Point 646</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.456749">
+		<name>Point 647</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.463622">
+		<name>Point 648</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.470495">
+		<name>Point 649</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.477368">
+		<name>Point 650</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.484242">
+		<name>Point 651</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.491115">
+		<name>Point 652</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.497988">
+		<name>Point 653</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.504861">
+		<name>Point 654</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.511735">
+		<name>Point 655</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.518608">
+		<name>Point 656</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.525481">
+		<name>Point 657</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.532354">
+		<name>Point 658</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.539228">
+		<name>Point 659</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.546101">
+		<name>Point 660</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.552974">
+		<name>Point 661</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.559847">
+		<name>Point 662</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.566721">
+		<name>Point 663</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.573594">
+		<name>Point 664</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.580467">
+		<name>Point 665</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.587340">
+		<name>Point 666</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.594214">
+		<name>Point 667</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.601087">
+		<name>Point 668</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.607960">
+		<name>Point 669</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.614833">
+		<name>Point 670</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.621706">
+		<name>Point 671</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.628580">
+		<name>Point 672</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.635453">
+		<name>Point 673</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.642326">
+		<name>Point 674</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.649199">
+		<name>Point 675</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.656073">
+		<name>Point 676</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.662946">
+		<name>Point 677</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.683566">
+		<name>Point 678</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.690439">
+		<name>Point 679</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.697312">
+		<name>Point 680</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.704185">
+		<name>Point 681</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.711059">
+		<name>Point 682</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.717932">
+		<name>Point 683</name>
+	</wpt>
+	<wpt lat="49.226661" lon="16.724805">
+		<name>Point 684</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.436129">
+		<name>Point 685</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.443002">
+		<name>Point 686</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.449875">
+		<name>Point 687</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.456749">
+		<name>Point 688</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.463622">
+		<name>Point 689</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.470495">
+		<name>Point 690</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.477368">
+		<name>Point 691</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.484242">
+		<name>Point 692</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.491115">
+		<name>Point 693</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.497988">
+		<name>Point 694</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.504861">
+		<name>Point 695</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.511735">
+		<name>Point 696</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.518608">
+		<name>Point 697</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.525481">
+		<name>Point 698</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.532354">
+		<name>Point 699</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.539228">
+		<name>Point 700</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.546101">
+		<name>Point 701</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.552974">
+		<name>Point 702</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.559847">
+		<name>Point 703</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.566721">
+		<name>Point 704</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.573594">
+		<name>Point 705</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.580467">
+		<name>Point 706</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.587340">
+		<name>Point 707</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.594214">
+		<name>Point 708</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.601087">
+		<name>Point 709</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.607960">
+		<name>Point 710</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.614833">
+		<name>Point 711</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.621706">
+		<name>Point 712</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.628580">
+		<name>Point 713</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.635453">
+		<name>Point 714</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.642326">
+		<name>Point 715</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.649199">
+		<name>Point 716</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.656073">
+		<name>Point 717</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.662946">
+		<name>Point 718</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.669819">
+		<name>Point 719</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.690439">
+		<name>Point 720</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.697312">
+		<name>Point 721</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.704185">
+		<name>Point 722</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.711059">
+		<name>Point 723</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.717932">
+		<name>Point 724</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.724805">
+		<name>Point 725</name>
+	</wpt>
+	<wpt lat="49.231152" lon="16.731678">
+		<name>Point 726</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.436129">
+		<name>Point 727</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.443002">
+		<name>Point 728</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.449875">
+		<name>Point 729</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.456749">
+		<name>Point 730</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.463622">
+		<name>Point 731</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.470495">
+		<name>Point 732</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.477368">
+		<name>Point 733</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.484242">
+		<name>Point 734</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.491115">
+		<name>Point 735</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.497988">
+		<name>Point 736</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.504861">
+		<name>Point 737</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.511735">
+		<name>Point 738</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.518608">
+		<name>Point 739</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.525481">
+		<name>Point 740</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.532354">
+		<name>Point 741</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.539228">
+		<name>Point 742</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.546101">
+		<name>Point 743</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.552974">
+		<name>Point 744</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.559847">
+		<name>Point 745</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.566721">
+		<name>Point 746</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.573594">
+		<name>Point 747</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.580467">
+		<name>Point 748</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.587340">
+		<name>Point 749</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.594214">
+		<name>Point 750</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.601087">
+		<name>Point 751</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.607960">
+		<name>Point 752</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.614833">
+		<name>Point 753</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.621706">
+		<name>Point 754</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.628580">
+		<name>Point 755</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.635453">
+		<name>Point 756</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.642326">
+		<name>Point 757</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.649199">
+		<name>Point 758</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.656073">
+		<name>Point 759</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.662946">
+		<name>Point 760</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.669819">
+		<name>Point 761</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.676692">
+		<name>Point 762</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.697312">
+		<name>Point 763</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.704185">
+		<name>Point 764</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.711059">
+		<name>Point 765</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.717932">
+		<name>Point 766</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.724805">
+		<name>Point 767</name>
+	</wpt>
+	<wpt lat="49.235644" lon="16.731678">
+		<name>Point 768</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.436129">
+		<name>Point 769</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.443002">
+		<name>Point 770</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.449875">
+		<name>Point 771</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.456749">
+		<name>Point 772</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.463622">
+		<name>Point 773</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.470495">
+		<name>Point 774</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.477368">
+		<name>Point 775</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.484242">
+		<name>Point 776</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.491115">
+		<name>Point 777</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.497988">
+		<name>Point 778</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.504861">
+		<name>Point 779</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.511735">
+		<name>Point 780</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.518608">
+		<name>Point 781</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.525481">
+		<name>Point 782</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.532354">
+		<name>Point 783</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.539228">
+		<name>Point 784</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.546101">
+		<name>Point 785</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.552974">
+		<name>Point 786</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.559847">
+		<name>Point 787</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.566721">
+		<name>Point 788</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.573594">
+		<name>Point 789</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.580467">
+		<name>Point 790</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.587340">
+		<name>Point 791</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.594214">
+		<name>Point 792</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.601087">
+		<name>Point 793</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.607960">
+		<name>Point 794</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.614833">
+		<name>Point 795</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.621706">
+		<name>Point 796</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.628580">
+		<name>Point 797</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.635453">
+		<name>Point 798</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.642326">
+		<name>Point 799</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.649199">
+		<name>Point 800</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.656073">
+		<name>Point 801</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.662946">
+		<name>Point 802</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.669819">
+		<name>Point 803</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.704185">
+		<name>Point 804</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.711059">
+		<name>Point 805</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.717932">
+		<name>Point 806</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.724805">
+		<name>Point 807</name>
+	</wpt>
+	<wpt lat="49.240136" lon="16.731678">
+		<name>Point 808</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.443002">
+		<name>Point 809</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.449875">
+		<name>Point 810</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.456749">
+		<name>Point 811</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.463622">
+		<name>Point 812</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.470495">
+		<name>Point 813</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.477368">
+		<name>Point 814</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.484242">
+		<name>Point 815</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.491115">
+		<name>Point 816</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.497988">
+		<name>Point 817</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.504861">
+		<name>Point 818</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.511735">
+		<name>Point 819</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.518608">
+		<name>Point 820</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.525481">
+		<name>Point 821</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.532354">
+		<name>Point 822</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.539228">
+		<name>Point 823</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.546101">
+		<name>Point 824</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.552974">
+		<name>Point 825</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.559847">
+		<name>Point 826</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.566721">
+		<name>Point 827</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.573594">
+		<name>Point 828</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.580467">
+		<name>Point 829</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.587340">
+		<name>Point 830</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.594214">
+		<name>Point 831</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.601087">
+		<name>Point 832</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.607960">
+		<name>Point 833</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.614833">
+		<name>Point 834</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.621706">
+		<name>Point 835</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.628580">
+		<name>Point 836</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.635453">
+		<name>Point 837</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.642326">
+		<name>Point 838</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.649199">
+		<name>Point 839</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.656073">
+		<name>Point 840</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.662946">
+		<name>Point 841</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.669819">
+		<name>Point 842</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.711059">
+		<name>Point 843</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.717932">
+		<name>Point 844</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.724805">
+		<name>Point 845</name>
+	</wpt>
+	<wpt lat="49.244627" lon="16.731678">
+		<name>Point 846</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.443002">
+		<name>Point 847</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.449875">
+		<name>Point 848</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.456749">
+		<name>Point 849</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.463622">
+		<name>Point 850</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.470495">
+		<name>Point 851</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.477368">
+		<name>Point 852</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.484242">
+		<name>Point 853</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.491115">
+		<name>Point 854</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.497988">
+		<name>Point 855</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.504861">
+		<name>Point 856</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.511735">
+		<name>Point 857</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.518608">
+		<name>Point 858</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.525481">
+		<name>Point 859</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.532354">
+		<name>Point 860</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.539228">
+		<name>Point 861</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.546101">
+		<name>Point 862</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.552974">
+		<name>Point 863</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.559847">
+		<name>Point 864</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.566721">
+		<name>Point 865</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.573594">
+		<name>Point 866</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.580467">
+		<name>Point 867</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.587340">
+		<name>Point 868</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.594214">
+		<name>Point 869</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.601087">
+		<name>Point 870</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.607960">
+		<name>Point 871</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.614833">
+		<name>Point 872</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.621706">
+		<name>Point 873</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.628580">
+		<name>Point 874</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.635453">
+		<name>Point 875</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.642326">
+		<name>Point 876</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.649199">
+		<name>Point 877</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.656073">
+		<name>Point 878</name>
+	</wpt>
+	<wpt lat="49.249119" lon="16.662946">
+		<name>Point 879</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.449875">
+		<name>Point 880</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.456749">
+		<name>Point 881</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.463622">
+		<name>Point 882</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.470495">
+		<name>Point 883</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.477368">
+		<name>Point 884</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.484242">
+		<name>Point 885</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.491115">
+		<name>Point 886</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.497988">
+		<name>Point 887</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.504861">
+		<name>Point 888</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.511735">
+		<name>Point 889</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.518608">
+		<name>Point 890</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.525481">
+		<name>Point 891</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.532354">
+		<name>Point 892</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.539228">
+		<name>Point 893</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.546101">
+		<name>Point 894</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.552974">
+		<name>Point 895</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.559847">
+		<name>Point 896</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.566721">
+		<name>Point 897</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.573594">
+		<name>Point 898</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.580467">
+		<name>Point 899</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.587340">
+		<name>Point 900</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.594214">
+		<name>Point 901</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.601087">
+		<name>Point 902</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.607960">
+		<name>Point 903</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.614833">
+		<name>Point 904</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.621706">
+		<name>Point 905</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.628580">
+		<name>Point 906</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.635453">
+		<name>Point 907</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.642326">
+		<name>Point 908</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.649199">
+		<name>Point 909</name>
+	</wpt>
+	<wpt lat="49.253610" lon="16.656073">
+		<name>Point 910</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.449875">
+		<name>Point 911</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.456749">
+		<name>Point 912</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.463622">
+		<name>Point 913</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.470495">
+		<name>Point 914</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.477368">
+		<name>Point 915</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.484242">
+		<name>Point 916</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.491115">
+		<name>Point 917</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.497988">
+		<name>Point 918</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.504861">
+		<name>Point 919</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.511735">
+		<name>Point 920</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.518608">
+		<name>Point 921</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.532354">
+		<name>Point 922</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.539228">
+		<name>Point 923</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.546101">
+		<name>Point 924</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.552974">
+		<name>Point 925</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.559847">
+		<name>Point 926</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.566721">
+		<name>Point 927</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.573594">
+		<name>Point 928</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.580467">
+		<name>Point 929</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.587340">
+		<name>Point 930</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.594214">
+		<name>Point 931</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.601087">
+		<name>Point 932</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.607960">
+		<name>Point 933</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.614833">
+		<name>Point 934</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.621706">
+		<name>Point 935</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.628580">
+		<name>Point 936</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.635453">
+		<name>Point 937</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.642326">
+		<name>Point 938</name>
+	</wpt>
+	<wpt lat="49.258102" lon="16.649199">
+		<name>Point 939</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.449875">
+		<name>Point 940</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.456749">
+		<name>Point 941</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.463622">
+		<name>Point 942</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.470495">
+		<name>Point 943</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.477368">
+		<name>Point 944</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.484242">
+		<name>Point 945</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.491115">
+		<name>Point 946</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.497988">
+		<name>Point 947</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.504861">
+		<name>Point 948</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.511735">
+		<name>Point 949</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.546101">
+		<name>Point 950</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.552974">
+		<name>Point 951</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.559847">
+		<name>Point 952</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.566721">
+		<name>Point 953</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.573594">
+		<name>Point 954</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.580467">
+		<name>Point 955</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.587340">
+		<name>Point 956</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.594214">
+		<name>Point 957</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.601087">
+		<name>Point 958</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.607960">
+		<name>Point 959</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.614833">
+		<name>Point 960</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.621706">
+		<name>Point 961</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.628580">
+		<name>Point 962</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.635453">
+		<name>Point 963</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.642326">
+		<name>Point 964</name>
+	</wpt>
+	<wpt lat="49.262593" lon="16.649199">
+		<name>Point 965</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.456749">
+		<name>Point 966</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.463622">
+		<name>Point 967</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.470495">
+		<name>Point 968</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.477368">
+		<name>Point 969</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.484242">
+		<name>Point 970</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.491115">
+		<name>Point 971</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.497988">
+		<name>Point 972</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.552974">
+		<name>Point 973</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.559847">
+		<name>Point 974</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.566721">
+		<name>Point 975</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.573594">
+		<name>Point 976</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.580467">
+		<name>Point 977</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.587340">
+		<name>Point 978</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.594214">
+		<name>Point 979</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.601087">
+		<name>Point 980</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.607960">
+		<name>Point 981</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.614833">
+		<name>Point 982</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.621706">
+		<name>Point 983</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.628580">
+		<name>Point 984</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.635453">
+		<name>Point 985</name>
+	</wpt>
+	<wpt lat="49.267085" lon="16.642326">
+		<name>Point 986</name>
+	</wpt>
+	<wpt lat="49.271576" lon="16.456749">
+		<name>Point 987</name>
+	</wpt>
+	<wpt lat="49.271576" lon="16.463622">
+		<name>Point 988</name>
+	</wpt>
+	<wpt lat="49.271576" lon="16.470495">
+		<name>Point 989</name>
+	</wpt>
+	<wpt lat="49.271576" lon="16.477368">
+		<name>Point 990</name>
+	</wpt>
+	<wpt lat="49.271576" lon="16.484242">
+		<name>Point 991</name>
+	</wpt>
+	<wpt lat="49.271576" lon="16.491115">
+		<name>Point 992</name>
+	</wpt>
+	<wpt lat="49.271576" lon="16.566721">
+		<name>Point 993</name>
+	</wpt>
+	<wpt lat="49.271576" lon="16.573594">
+		<name>Point 994</name>
+	</wpt>
+	<wpt lat="49.271576" lon="16.580467">
+		<name>Point 995</name>
+	</wpt>
+	<wpt lat="49.271576" lon="16.587340">
+		<name>Point 996</name>
+	</wpt>
+	<wpt lat="49.271576" lon="16.594214">
+		<name>Point 997</name>
+	</wpt>
+	<wpt lat="49.271576" lon="16.601087">
+		<name>Point 998</name>
+	</wpt>
+	<wpt lat="49.271576" lon="16.607960">
+		<name>Point 999</name>
+	</wpt>
+</gpx>
+
